@@ -4,6 +4,8 @@
 
 - 💀 I’m currently unemployed
 - 💀 I am a javascript addict
+- *yes, I really know all of them*
+- You can email me and take a test for all of them to me codeapp9988@gmail.com pinky swear ik all of them
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
